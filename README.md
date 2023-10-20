@@ -21,7 +21,7 @@
 
 # 📖 Hello React Front End <a name="about-project"></a>
 
-**Hello React Front End** is a project using React and Redux for frontend to display the data coming from API [Hello-Rails-Back-End](https://github.com/Odongo006/Hello-React-Front-end).
+**Hello React Front End** is a project using React and Redux for frontend to display the data coming from API [Hello-Rails-Back-End](https://github.com/Odongo006/Hello-Rails-Backend).
 
 ## 🛠 Built With <a name="built-with"></a>
 
