@@ -4,7 +4,7 @@ import axios from 'axios';
 export const fetchGreeting = createAsyncThunk(
   'message/fetchGreeting',
   async () => {
-    const response = await axios.get('http://localhost:4000/api/greetings/random');
+    const response = await axios.get('http://localhost:3000/api/greetings');
     return response.data;
   },
 );
